@@ -1,0 +1,7 @@
+{
+  "name": "ejemploBDLocalStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
